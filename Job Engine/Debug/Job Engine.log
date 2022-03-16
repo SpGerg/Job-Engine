@@ -1,0 +1,14 @@
+﻿  JText.cpp
+  main.cpp
+C:\Users\fokus\Desktop\JobEngine\Job Engine\main.cpp(39,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\fokus\Desktop\JobEngine\Job Engine\main.cpp(39,36): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  Job Engine.vcxproj -> C:\Users\fokus\Desktop\JobEngine\Debug\Job Engine.exe
